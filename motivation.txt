@@ -1,0 +1,11 @@
+                                                         Assignment 02 :Research & Reflection
+							
+				Why do you want to become a Quality Engineer / Software Test Engineer?
+
+I want to become a Quality Engineer because I genuinely care about how people experience software. Whenever I use an application that crashes, behaves unexpectedly, or feels confusing, I don’t just get frustrated—I start wondering what went wrong and how it could have been avoided. Over time, this habit made me realize that I naturally think from a quality and user perspective.
+
+I enjoy finding problems before they become bigger issues. There is something deeply satisfying about discovering a hidden bug, understanding its root cause, and knowing that fixing it will save users from frustration. To me, testing feels like protecting the user’s trust. Every bug caught is one less moment where someone might lose confidence in a product.
+
+I also like the sense of responsibility that comes with this role. A Quality Engineer is often the last line of defense before a product reaches real people. Knowing that my work can prevent errors, confusion, or even financial loss gives purpose to what I do. In a world where software is part of everyday life, quality is not optional—it directly affects people’s time, mood, and decisions.
+
+Most importantly, I see quality engineering as a role where empathy meets logic. It allows me to combine analytical thinking with genuine concern for users. Being someone who helps deliver reliable, thoughtful, and trustworthy software is the reason I want to grow as a Quality Engineer.
